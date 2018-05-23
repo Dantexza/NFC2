@@ -1,0 +1,9 @@
+<resources>
+
+
+
+    <string name="hello">Hello World, PeertoPeer1!</string>
+    <string name="app_name">PeertoPeer1</string>
+
+    <string name="shareMessage">Share Message</string>
+</resources>
